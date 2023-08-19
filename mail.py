@@ -27,9 +27,9 @@ def send(n1):
 
 
 
-    sender_add='aksharaminnu1@gmail.com'
+    sender_add='enter email'
     receiver_add=f'{n2}'
-    password='yftzqcnkqfplufmz'
+    password=' '
 
     message = MIMEMultipart()
 
